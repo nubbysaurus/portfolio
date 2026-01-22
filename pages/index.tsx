@@ -26,12 +26,14 @@ export default function Home() {
         <p className={styles.description}>
           Selected works by Jake Lee/"nubby".
         </p>
+        <!--
         <div className={styles.grid}>
           <Link href="/sandbox" className={styles.card}>
             <h3>Sandbox &rarr;</h3>
             <p>Jake's code testing playground.</p>
           </Link>
         </div>
+         !-->
       </main>
 
       <footer>
